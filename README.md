@@ -90,6 +90,4 @@ The bot processes all resumes in the input folder, identifies which candidates h
 
 ---
 
-## 📄 License
 
-This project is shared for educational and demonstration purposes.
